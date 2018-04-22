@@ -1,0 +1,2 @@
+# mywebsite
+Django based website
